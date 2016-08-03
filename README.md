@@ -28,3 +28,8 @@ I know there are othe solutions out there that use the ngOAuth plugin, but that 
 
 **React-Native & Firebase Authentication Realtime Database:** basic auth and query
 - [https://github.com/aaronksaunders/Firebase3-ReactProject](https://github.com/aaronksaunders/Firebase3-ReactProject)
+
+**Ionic Framework 1 - Firebase Storage File Upload Video**
+- [https://www.youtube.com/watch?v=Z1F-0PnLgb8](https://www.youtube.com/watch?v=Z1F-0PnLgb8)
+- [![Alt text](https://img.youtube.com/vi/Z1F-0PnLgb8/0.jpg)](https://www.youtube.com/watch?v=Z1F-0PnLgb8)
+
