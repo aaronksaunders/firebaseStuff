@@ -39,3 +39,8 @@ I know there are othe solutions out there that use the ngOAuth plugin, but that 
 - [Source Code for Video](https://github.com/aaronksaunders/firebaseStorageApp)
 - [![Alt text](https://img.youtube.com/vi/2bDBwmyifGI/0.jpg)](https://www.youtube.com/watch?v=2bDBwmyifGI)
 
+**Ionic Framework 2 - Firebase Storage File Upload Video**
+- [https://www.youtube.com/watch?v=6yGrLWq-oIo](https://www.youtube.com/watch?v=6yGrLWq-oIo)
+- [Source Code for Video](https://github.com/aaronksaunders/firebaseStorage2)
+- [![Alt text](https://img.youtube.com/vi/6yGrLWq-oIo/0.jpg)](https://www.youtube.com/watch?v=6yGrLWq-oIo)
+
